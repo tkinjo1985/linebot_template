@@ -1,0 +1,6 @@
+Flask
+line-bot-sdk
+requests
+pillow
+https://github.com/google-coral/pycoral/releases/download/release-frogfish/tflite_runtime-2.5.0-cp38-cp38-linux_x86_64.whl
+numpy==1.18
